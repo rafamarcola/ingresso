@@ -1,0 +1,137 @@
+{
+  "company": {
+    "name": "Cursinho Ingresso - O cursinho popular da FAMERP",
+    "logo": "/assets/images/logo.png"
+  },
+  "navigation": [
+    {
+      "name": "Sobre",
+      "href": "diferenciais"
+    },
+
+    {
+      "name": "Horários",
+      "href": "horarios"
+    },
+    {
+      "name": "Redes Sociais",
+      "href": "sociais"
+    }
+  ],
+  "callToAction": {
+    "text": "Fale com a gente",
+    "href": "#"
+  },
+  "mainHero": {
+    "title": "A sua realização",
+    "subtitle": "é o nosso sucesso.",
+    "description": "O Cursinho Ingresso é o cursinho dos alunos da FAMERP! Nascido em 2003, o projeto tem como objetivo democratizar o conhecimento e ajudar alunos de São José do Rio Preto e região a acessarem a universidade pública!",
+    "img": "/assets/images/bixo.jpg",
+    "primaryAction": {
+      "text": "Ver mais",
+      "href": "#diferenciais"
+    },
+    "secondaryAction": {
+      "text": "Fale com a gente",
+      "href": "https://api.whatsapp.com/send?phone=5517991343817&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20cursinho%20popular%20da%20FAMERP",
+      "img": ""
+    }
+  },
+  "product": {
+    "title": "O cursinho dos alunos da FAMERP",
+    "items": [
+      {
+        "title": "De alunos para alunos",
+        "description": "Nossas aulas e plantões são ministradas por alunos da FAMERP. Toda a equipe passa por uma seleção para que a qualidade do cursinho seja garantida. Com isso, além de um time de qualidade consequimos uma maior proximidade com a situação dos alunos!",
+        "img": "/assets/images/image1.png"
+      },
+      {
+        "title": "Qualidade ETAPA",
+        "description": "Nosso cursinho trabalha em parceria com os materiais do ETAPA, que é atualmente um dos melhores materiais pré-vestibular do BRASIL.",
+        "img": "/assets/images/image2.png"
+      }
+    ]
+  },
+  "features": {
+    "title": "Por que o Cursinho Ingresso?",
+    "subtitle": "O que nosso curso pré-vestibular oferece",
+    "description": "",
+    "items": [
+      {
+        "name": "Baixo custo",
+        "description": "Nosso cursinho tem como principal foco alunos de baixa renda, buscando prover uma preparação de qualidade para o vestibular com o melhor custo-benefício de Rio Preto.",
+        "icon": "/assets/images/1.png"
+      },
+      {
+        "name": "Material de qualidade",
+        "description": "Nosso aluno tem total acesso a materiais de qualidade. Com parceria com o ETAPA, conseguimos disponibilizar materiais apostilados e acesso à plataforma online para todos os matriculados.",
+        "icon": "/assets/images/3.png"
+      },
+      {
+        "name": "Aulas completas",
+        "description": "O funcionamento do cursinho é exclusivamente noturno, com aulas de segunda a sexta das 19h00 às 22h50.",
+        "icon": "/assets/images/2.png"
+      },
+      {
+        "name": "Plantões de dúvidas",
+        "description": "De segunda a sexta nossa equipe de plantonistas ministra plantões às 18h00 para ajudar a sanar todas as dúvidas e acompanhar o desenvolvimento do aluno.",
+        "icon": "/assets/images/4.png"
+      }
+    ]
+  },
+
+  "pricing": {
+    "title": "Horário de atendimento",
+    "items": [
+      {
+        "name": "",
+        "price": "",
+        "priceDetails": "",
+        "features": []
+      },
+      {
+        "name": "",
+        "price": "",
+        "priceDetails": "",
+
+        "features": []
+      },
+      {
+        "name": "",
+        "price": "",
+        "priceDetails": "",
+        "features": []
+      }
+    ]
+  },
+  "about": {
+    "sections": [
+      {
+        "name": "",
+        "href": "",
+        "content": ""
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": ""
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": ""
+      },
+      {
+        "name": "",
+        "href": "#",
+        "content": ""
+      }
+    ],
+    "socialMedia": {
+      "instagram": "https://www.instagram.com/cursinhoingresso/",
+      "facebook": "https://www.facebook.com/cursinhoingresso",
+      "youtube": "https://www.youtube.com/channel/UCuvxXblOZKdnX5RnPEteAtg",
+      "whatsapp": "https://api.whatsapp.com/send?phone=5517991343817&text=Ol%C3%A1%2C%20gostaria%20de%20saber%20mais%20sobre%20o%20cursinho%20popular%20da%20FAMERP"
+    }
+  }
+}
